@@ -26,17 +26,11 @@
 ## 📌 Projects
 - 🔍 **Site-wise Product Comparison System**  
 - 🗣️ **Sentiment Analysis & Trend Prediction for E-commerce**  
-- 🌧️ **Rain Detector Alarm using Sensors**
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: rakshachanekar@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
