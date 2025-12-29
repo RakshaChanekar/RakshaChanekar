@@ -6,12 +6,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final year student working on **E-commerce & Product Comparison projects**
-- 📊 Interested in **Sentiment Analysis & Trend Prediction**
-- ☁️ Learning **AWS Cloud & Linux**
-- 🌱 Currently exploring **DevOps & Automation**
-- 💡 Love solving real-world problems using technology
-
+-
 ---
 
 ## 🛠️ Skills
@@ -30,7 +25,7 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: rakshachanekar@gmail.com  
+- 📧 Email:  
 - 💼 LinkedIn: https://www.linkedin.com/in/raksha-chanekar-06b736272  
 
 ---
