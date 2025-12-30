@@ -25,7 +25,7 @@
 ---
 
 ## 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://github.com/RakshaChanekar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)]([https://github.com/RakshaChanekar](https://www.linkedin.com/in/raksha-chanekar-06b736272)/)
 
 ⭐ *Thanks for visiting my profile!*  
 
