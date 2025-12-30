@@ -24,11 +24,8 @@
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email:  
-- 💼 LinkedIn: https://www.linkedin.com/in/raksha-chanekar-06b736272  
-
----
+## 📫 Let’s connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://github.com/RakshaChanekar/)
 
 ⭐ *Thanks for visiting my profile!*  
 
