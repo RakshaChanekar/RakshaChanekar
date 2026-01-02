@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me
--
+- I’m Raksha Chanekar, a passionate Cloud & DevOps Engineer. I recently completed my Bachelor of Engineering in Computer Science and Engineering From HVPM COET, Amravati. 
 ---
 
 ## 🛠️ Skills
