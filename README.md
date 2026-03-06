@@ -4,16 +4,9 @@
 ---
 
 ## 🚀 About Me
-
-I am **Raksha Chanekar**, an aspiring **AWS & DevOps Engineer** with a strong interest in cloud infrastructure, automation, and scalable system design.
-
-🎓 Bachelor of Engineering in Computer Science and Engineering  
-🏫 HVPM College of Engineering & Technology, Amravati
-
-I enjoy building **cloud-based applications, serverless architectures, and DevOps automation pipelines** while continuously learning new technologies.
+I am Raksha Chanekar, an aspiring AWS & DevOps Engineer with a strong passion for cloud computing and modern infrastructure technologies. I hold a Bachelor’s degree in Computer Science and Engineering from HVPM College of Engineering & Technology, Amravati. I am deeply interested in building scalable and efficient cloud-based applications using AWS services. My focus areas include cloud infrastructure, automation, and DevOps practices. I have hands-on experience with Linux, Git, and various AWS services while developing real-world projects. I enjoy exploring serverless architectures and learning new tools that improve system reliability and performance. I continuously work on improving my skills in cloud technologies, CI/CD concepts, and infrastructure automation. My goal is to build reliable, scalable, and efficient cloud solutions while growing as a DevOps professional.
 
 Currently focusing on:
-
 • Cloud Infrastructure (AWS)  
 • DevOps Tools & CI/CD Pipelines  
 • Linux System Administration  
@@ -29,6 +22,8 @@ Currently focusing on:
 ### DevOps & Tools
 - Git
 - GitHub
+- Terraform
+- Ansible
 - Linux
 - Docker (Learning)
 - CI/CD Concepts
@@ -52,7 +47,7 @@ Currently focusing on:
 ## 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,python,java,html,css,javascript,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,python,java,html,css,javascript,mysql,Terraform,Ansible,docker" />
 </p>
 
 ---
