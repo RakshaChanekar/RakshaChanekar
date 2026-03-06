@@ -47,7 +47,7 @@ Currently focusing on:
 ## 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,python,java,html,css,javascript,mysql,Terraform,Ansible,docker" />
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,python,java,html,css,javascript,mysql,docker,kubernetes,terraform,ansible,jenkins,grafana,prometheus,nginx,bash,vscode" />
 </p>
 
 ---
