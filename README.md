@@ -85,18 +85,6 @@ Fully containerized using Docker
 
 🔗 Project Link: https://github.com/RakshaChanekar/Dockerized-python-application.git
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakshaChanekar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshaChanekar&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshaChanekar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
