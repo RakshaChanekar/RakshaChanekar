@@ -66,6 +66,24 @@ A serverless cloud application built using AWS services to manage student record
 ## 🔹 Sentiment Analysis & Trend Prediction for E-commerce
 A machine learning-based project that analyzes customer reviews and predicts emerging trends in e-commerce platforms.
 
+## 🔹 S3 → RDS → AWS Glue Data Pipeline (Featured Project 🚀)
+
+A cloud-based ETL pipeline that processes CSV data from S3 and stores it in RDS with a fallback mechanism using AWS Glue.
+
+Tech Stack:
+
+AWS S3, RDS, Glue
+Python (boto3, pandas, SQLAlchemy)
+Docker
+
+Key Features:
+
+Automated data ingestion from S3
+Data insertion into RDS (MySQL)
+Fault-tolerant fallback to AWS Glue
+Fully containerized using Docker
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
