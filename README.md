@@ -83,6 +83,8 @@ Data insertion into RDS (MySQL)
 Fault-tolerant fallback to AWS Glue
 Fully containerized using Docker
 
+🔗 Project Link: https://github.com/RakshaChanekar/Dockerized-python-application.git
+
 
 ## 📊 GitHub Statistics
 
