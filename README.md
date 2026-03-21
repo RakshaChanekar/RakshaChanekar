@@ -68,32 +68,9 @@ A machine learning-based project that analyzes customer reviews and predicts eme
 
 ## 🔹 Deploying and Managing Microservices in a Cloud-Native 
 Environment
-
-A cloud-based ETL pipeline that processes CSV data from S3 and stores it in RDS with a fallback mechanism using AWS Glue.
-
-Tech Stack:
-
-AWS S3, RDS, Glue
-Python (boto3, pandas, SQLAlchemy)
-Docker
-
-Key Features:
-
-Automated data ingestion from S3
-Data insertion into RDS (MySQL)
-Fault-tolerant fallback to AWS Glue
-Fully containerized using Docker
-
 🔗 Project Link: https://github.com/RakshaChanekar/Dockerized-python-application.git
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RakshaChanekar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ## 🌱 Currently Learning
 
 - Advanced AWS Services
