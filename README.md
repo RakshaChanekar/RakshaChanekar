@@ -49,19 +49,7 @@ Currently focusing on:
 ## 📌 Projects
 
 ### 🔹 Serverless Student Management System
-A serverless cloud application built using AWS services to manage student records.
-
-**Technologies Used**
-- AWS Amplify
-- API Gateway
-- AWS Lambda
-- DynamoDB
-
-**Features**
-- Add student data
-- Retrieve student records
-- Serverless backend architecture
-- Scalable cloud deployment
+🔗 Project Link: https://github.com/RakshaChanekar/Student-Managment-System.gitA serverless cloud application built using AWS services to manage student records.
 
 ## 🔹 Sentiment Analysis & Trend Prediction for E-commerce
 A machine learning-based project that analyzes customer reviews and predicts emerging trends in e-commerce platforms.
