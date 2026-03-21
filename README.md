@@ -66,8 +66,8 @@ A serverless cloud application built using AWS services to manage student record
 ## 🔹 Sentiment Analysis & Trend Prediction for E-commerce
 A machine learning-based project that analyzes customer reviews and predicts emerging trends in e-commerce platforms.
 
-## 🔹 Deploying and Managing Microservices in a Cloud-Native 
-Environment
+## 🔹  Data Ingestion from S3 to RDS with Fallback to AWS Glue using Dockerized 
+Python Application 
 🔗 Project Link: https://github.com/RakshaChanekar/Dockerized-python-application.git
 
 ---
