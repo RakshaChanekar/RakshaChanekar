@@ -49,7 +49,7 @@ Currently focusing on:
 ## 📌 Projects
 
 ### 🔹 Serverless Student Management System
-🔗 Project Link: https://github.com/RakshaChanekar/Student-Managment-System.gitA serverless cloud application built using AWS services to manage student records.
+🔗 Project Link: https://github.com/RakshaChanekar/Student-Managment-System.
 
 ## 🔹 Sentiment Analysis & Trend Prediction for E-commerce
 A machine learning-based project that analyzes customer reviews and predicts emerging trends in e-commerce platforms.
