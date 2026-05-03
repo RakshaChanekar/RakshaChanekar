@@ -51,8 +51,8 @@ Currently focusing on:
 ### 🔹 Serverless Student Management System
 🔗 Project Link: https://github.com/RakshaChanekar/Student-Managment-System.
 
-## 🔹 Sentiment Analysis & Trend Prediction for E-commerce
-A machine learning-based project that analyzes customer reviews and predicts emerging trends in e-commerce platforms.
+### 🔹 DevPulse AI – Intelligent Monitoring & Failure Prediction System
+🔗Project Link: https://github.com/RakshaChanekar/DEVPLUSE-AI.git
 
 ## 🔹  Data Ingestion from S3 to RDS with Fallback to AWS Glue using Dockerized 
 Python Application 
